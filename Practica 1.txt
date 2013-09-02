@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+     <html>
+           <head>
+                 <meta name="description" content = "Practica de HTML 5 "/>
+                 <meta name ="keywords" content= "HTML5, CSS3, Javascript",/>
+                 <title>Practica 1</title>
+            </head>
+            <body>
+                   <header>
+                         <h1>Practica 1</h1>
+                   </header>
+                   <section>
+                           <a href="http://es.wikipedia.org/wiki/Programaci%C3%B3n"><img src="programacion.jpg"/></a>
+                           <p>
+                               La programación consiste en desarrollar programas para procesar informaci&oacute;n. 
+                               Tambien se entiende por programaci&oacute;n como el t&eacute;rmino que se utiliza para 
+                               designar la creacion de programas a pequeña escala. 
+                               La programaci&oacute;nde computadoras es el arte de hacer que una computadora
+                               haga lo que nosotros querramos. En el nivel m&aacute;s simple consiste en ingresar 
+                               en la computadora una secuencia de &oacute;rdenes para lograr un cierto objetivo<br/>
+                               <a href= "http://www.lenguajes-de-programacion.com/programacion.shtml">Link de la informaci&oacute;n</a> 
+                           </p>
+                    </section>  
+                    <header>
+                    <h2>Tabla de Datos</h2>
+                    </header>
+                    <table>
+                    <tr><th>Nombre</th>
+                          <th>Domicilio</th>
+                          <th>Telefono</th>
+                    </tr>
+                    <tr><td>Christian Rocha</td>
+                          <td>La Cuesta #12</td>
+                          <td>36-97-14-83</td>
+                    </tr>
+                    <tr><td>Pedro L&oacute;pez</td>
+                          <td>Juan Gil Preciado #68 &nbsp;</td>
+                          <td>11-87-15-00</td>
+                    </tr>
+                    <tr><td>Emmanuel Mejia</td>
+                          <td>Desiertos #151</td>
+                          <td>15-24-45-47</td>
+                    </tr>
+                    <tr><td>Alejandro Ramos &nbsp;</td>
+                          <td>Benito Juarez #46</td>
+                          <td>11-13-12-60</td>
+                     </tr>
+                     <tr><td>Uriel Flores</td>
+                          <td>Miguel Corona #720</td>
+                          <td>36-81-98-86</td>
+                     </tr>                  
+              </body>
+</html>
